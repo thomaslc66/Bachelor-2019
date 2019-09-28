@@ -1,0 +1,67 @@
+{
+  "game": {
+    "enigme1": { "validCode": "154203" },
+    "enigme2": {},
+    "enigme3": { "validCode": "999999" },
+    "game": {
+      "geofences": [
+        {
+          "validate": false,
+          "radius": 7,
+          "latitude": 46.782846,
+          "longitude": 6.653291,
+          "isVisible": true,
+          "firstTimeIn": false,
+          "id": "depart"
+        },
+        {
+          "validate": false,
+          "radius": 35,
+          "locked": false,
+          "latitude": 46.780681,
+          "longitude": 6.656571,
+          "isVisible": false,
+          "firstTimeIn": false,
+          "id": "enigme1"
+        },
+        {
+          "validate": false,
+          "radius": 7,
+          "latitude": 46.784037,
+          "secondTimeIn": true,
+          "longitude": 6.65703,
+          "isVisible": false,
+          "firstTimeIn": false,
+          "id": "enigme2"
+        },
+        {
+          "firstTimeIn": false,
+          "id": "reset",
+          "validate": false,
+          "radius": 7,
+          "latitude": 46.7821472,
+          "longitude": 6.6556107,
+          "isVisible": false
+        },
+        {
+          "firstTimeIn": false,
+          "id": "noisetier",
+          "validate": false,
+          "radius": 7,
+          "latitude": 46.7836608,
+          "longitude": 6.6557981,
+          "isVisible": false
+        },
+        {
+          "validate": false,
+          "radius": 6,
+          "latitude": 46.785932,
+          "longitude": 6.647616,
+          "isVisible": false,
+          "firstTimeIn": false,
+          "id": "enigme3"
+        }
+      ]
+    }
+  }
+}
