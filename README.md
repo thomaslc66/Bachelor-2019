@@ -15,6 +15,11 @@ This repository contain all the sources needed to implement the all project.
 
 
 ####  Code Folder
+##### EddyStone & Estimote
+
+Those two applications are android studio project that where used to test and analyse the estimote beacons solution. 
+
+##### React-native
 First off all, this application was only tested on Android. Testing it on iOs was not required in the specifications.
 To test it out, you will need to install yarn or npm and react-native-cli to complete this task.
 
@@ -58,6 +63,14 @@ game.json and user.json
 In game.json, you will find all the enigmas code, and game geofences that you can change to suit your needs.
 
 In user.json you will have dummy user entries, fell free to delete them.
+
+##### run it
+To run the app, when everything is ok, you need to run 
+```
+react-native run-android
+```
+For this to work you need to have either a android phone connected to your computer or and emulator running.
+Note: Sometimes you need to run this command twice as the communication between the phone and the server is messy.
 
 ### Raspberry Folder
 This folder contain an image of the raspberry with all the libraries you will need to create a new one. In this folder you will have two subfolders that contains the flows of each box and the common script for the modem connection. You will need to edit this script to match with your cell phone provider apn.
