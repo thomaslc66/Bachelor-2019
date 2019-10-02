@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128377180825",
+    "firebase_url": "https://bachelor-thomas.firebaseio.com",
+    "project_id": "bachelor-thomas",
+    "storage_bucket": "bachelor-thomas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128377180825:android:db6188aed992ea1e",
+        "android_client_info": {
+          "package_name": "com.bachelor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128377180825-5nla3j3cc68ckm7u6k1mkijr8phcmtvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Dla_bX6OD9CLl5gF5yWyy2YpGHgoT4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128377180825-5nla3j3cc68ckm7u6k1mkijr8phcmtvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
