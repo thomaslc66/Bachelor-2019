@@ -11,10 +11,10 @@ This repository contain all the sources needed to implement the all project.
  - Code: This folder contain all the source code for tehe mobile application.  
  - Raspberry: This folder contain the necessary to recreate all the interactional boxes
  - Server: Contain the flow to recreate the game central server
- - 
+ - Rapport : Contain the analyse and bachelor essai
 
 
-####  Code Folder
+###  Code Folder
 ##### EddyStone & Estimote
 
 Those two applications are android studio project that where used to test and analyse the estimote beacons solution. 
@@ -81,10 +81,11 @@ The image comes installed with:
 - MQTT & a broker (Mosquitto)
 - The necessary library for the modem to work
 
-What you still needs to do:
+What you still need to do:
 
 - Import the node red flows or create a new one
 - Connect, wire all the electronical component to suits your need.
 - Change the modem configuration script to match with the apn of your provider.
 
-
+### Rapport Folder
+Contain the bachelor analyse and explainations.
