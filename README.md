@@ -6,6 +6,32 @@
 
 This repository contain all the sources needed to implement the all project.
 
+### What is this project for ?
+
+This project is part of the needs of the city of Yverdon-les-Bains to give to citizens a new way to do sport. In order to do so, they asked the HEIG-VD to do a full prototype, introducing the aspect of gamification in sport.
+
+During this project, multiple aspects were managed to finish a full and playable game prototype. This project combine the aspects of sport and game in a on field game.
+
+#### Game
+This project is a full prototype game, the user needs to help the gardian of the natural reserve "La caricee" near the lake in Yverdon-Les-Bains and resolve a number of riddle, finding clues hidden in the field, behind stones or in trees.
+
+To help him he can use the mobile application and the voice that give him some clues to follow the good direction and to know where to look for informations.
+
+### Mobile Application
+
+First the user needs to register to have an account. Like this the app can follow all of the game info, like speed, meters, altitude and time. The account give the ability to save the games and see a summary at the end.
+
+![Register](https://i.imgur.com/zhOCXuY.png)  
+
+
+The mobile application, display a map and a voice help the player to resolves the riddles. Each riddle has a delimited perimeter. The start point is the first point to be displayed. The app detects when the user enter a zone and unlocked the next riddle zone. For more info on the gameplay you can see the file "Bachelor_2019.pdf" in the "Rapport" folder or see the video down below.
+
+![Game Screen](https://i.imgur.com/fjGPpl0.png)
+
+### Demo (with a video)
+
+[![Gamification Video](http://img.youtube.com/vi/ajXcGUIe75I/0.jpg)](http://www.youtube.com/watch?v=ajXcGUIe75I "Gamification")
+
 #### Description of the folders
 
  - Code: This folder contain all the source code for tehe mobile application.  
