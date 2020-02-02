@@ -30,6 +30,8 @@ The mobile application, display a map and a voice help the player to resolves th
 
 ### Demo (with a video)
 
+Click on the image and put audio on to see the video.
+
 [![Gamification Video](http://img.youtube.com/vi/ajXcGUIe75I/0.jpg)](http://www.youtube.com/watch?v=ajXcGUIe75I "Gamification")
 
 #### Description of the folders
